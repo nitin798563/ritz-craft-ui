@@ -29,7 +29,4 @@ project-folder/
 |  └── images
 │    └── (all images used)
 └── README.md
-
-
-
 ```
