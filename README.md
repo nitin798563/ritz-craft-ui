@@ -4,7 +4,7 @@ This project is a part of a web designing machine test assigned by **Jack Talent
 The goal was to convert the given Figma design into a fully responsive webpage using **HTML5**, **CSS3**, and **Bootstrap 5**.
 
 ## 🚀 Live Demo
-[View Live Site](https://ritz-craft-web-design.netlify.app)
+[View Live Site](https://nitin798563.github.io/ritz-craft-ui/)
 
 ## 🧩 Technologies Used
 - HTML5  
@@ -19,3 +19,12 @@ The goal was to convert the given Figma design into a fully responsive webpage u
 - Organized and reusable CSS classes
 
 ## 📂 Project Structure
+project-folder/
+│
+├── index.html
+├── style.css
+│ └── style.css
+├── assets/
+|  └── images
+│    └── (all images used)
+└── README.md
