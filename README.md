@@ -19,6 +19,7 @@ The goal was to convert the given Figma design into a fully responsive webpage u
 - Organized and reusable CSS classes
 
 ## 📂 Project Structure
+```
 project-folder/
 │
 ├── index.html
@@ -28,3 +29,7 @@ project-folder/
 |  └── images
 │    └── (all images used)
 └── README.md
+
+
+
+```
